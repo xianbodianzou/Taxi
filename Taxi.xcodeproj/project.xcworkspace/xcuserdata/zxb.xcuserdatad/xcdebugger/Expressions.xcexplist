@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ValuationItem initData:]:ValuationItem.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[wmStr substringWithRange:NSMakeRange(dengdai.location, fengzhong.location-dengdai.location)]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__14-[Taxi outPut]_block_invoke:Taxi.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[outPut stringByAppendingFormat:@&quot;&#x6536;&#x8d39;%@&#x5143;&quot;,@([[[Valuation alloc] initWithDis:[item getDis] waitMinite:[item getWaitMinite]] calcPrice])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
